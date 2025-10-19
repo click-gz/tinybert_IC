@@ -1,0 +1,9242 @@
+[
+  {
+    "dialogue_id": "d_2_0001",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天广州温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0002",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天天气小雨，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0003",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末深圳的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末深圳天气晴，温度19度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0004",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天天气晴，温度25度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0005",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0006",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天上海的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0007",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周广州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0008",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下下周北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0009",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0010",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0011",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下明天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0012",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0013",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天上海温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0014",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天杭州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天杭州天气大雨，温度34度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0015",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天北京的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天北京天气小雨，温度27度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0016",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天重庆温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0017",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末重庆的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0018",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天西安的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天西安天气晴，温度33度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0019",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天北京温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0020",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气小雨，温度27度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0021",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天重庆的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天重庆天气阴，温度17度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0022",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下明天深圳的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0023",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周天气雷阵雨，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0024",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0025",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天武汉天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0026",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0027",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下这周广州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0028",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天杭州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0029",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天天气雷阵雨，温度18度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0030",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0031",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0032",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天成都的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0033",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天杭州会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0034",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天北京的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天北京天气多云，温度16度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0035",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天广州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0036",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周天气雷阵雨，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0037",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这周武汉天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0038",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周南京的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周南京天气晴，温度20度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0039",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气晴，温度29度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0040",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末南京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0041",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下这周杭州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0042",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天西安的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0043",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天武汉温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0044",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天天气阴，温度15度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0045",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天天气多云，温度31度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0046",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0047",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下下周深圳的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0048",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周上海的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周上海天气多云，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0049",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "周末北京会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0050",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末成都的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0051",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天深圳的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0052",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天上海的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天上海天气小雨，温度29度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0053",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天成都的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0054",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天上海的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0055",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天天气多云，温度25度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0056",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0057",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天广州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天广州天气小雨，温度29度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0058",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天广州会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0059",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天武汉天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0060",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天上海的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天上海天气晴，温度21度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0061",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天成都天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0062",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下周末的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0063",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天武汉会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0064",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天广州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0065",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末杭州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末杭州天气小雨，温度32度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0066",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天武汉会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0067",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周天气雪，温度15度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0068",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末南京的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末南京天气阴，温度33度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0069",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0070",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0071",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天天气晴，温度22度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0072",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0073",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0074",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周成都的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周成都天气晴，温度26度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0075",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气大雨，温度24度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0076",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0077",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天北京会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0078",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0079",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天广州温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0080",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周武汉温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0081",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周广州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0082",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0083",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周天气雪，温度26度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0084",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末广州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末广州天气阴，温度24度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0085",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这周天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0086",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0087",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天上海的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0088",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0089",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天深圳的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0090",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周上海的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0091",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天武汉的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0092",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天武汉的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0093",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周天气多云，温度20度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0094",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0095",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0096",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周上海的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0097",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气雷阵雨，温度15度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0098",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天武汉的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天武汉天气晴，温度18度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0099",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "周末温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0100",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天深圳的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天深圳天气晴，温度27度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0101",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下周末北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0102",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天深圳天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0103",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0104",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天杭州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0105",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天武汉的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0106",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天西安天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0107",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这周温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0108",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天重庆的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天重庆天气大雨，温度16度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0109",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周南京的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周南京天气雪，温度30度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0110",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周武汉的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0111",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周天气雷阵雨，温度34度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0112",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "周末会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0113",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天武汉会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0114",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天重庆的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天重庆天气阴，温度17度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0115",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天南京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0116",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周北京的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周北京天气大雨，温度33度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0117",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周广州天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0118",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天上海温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0119",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周西安的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0120",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下明天武汉的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0121",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下这周成都的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0122",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0123",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周西安的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0124",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天西安天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0125",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这周武汉温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0126",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下今天广州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0127",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0128",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0129",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这周成都温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0130",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周上海的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0131",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天西安的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0132",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天成都的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天成都天气雪，温度23度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0133",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0134",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这周温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0135",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周北京的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周北京天气晴，温度30度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0136",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天北京的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天北京天气阴，温度34度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0137",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周天气阴，温度28度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0138",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末深圳的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0139",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天上海的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天上海天气大雨，温度26度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0140",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0141",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0142",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周天气阴，温度21度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0143",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天天气雪，温度34度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0144",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周广州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周广州天气晴，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0145",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末武汉的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0146",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周天气雪，温度21度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0147",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周天气大雨，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0148",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天杭州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天杭州天气雪，温度32度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0149",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周广州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0150",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0151",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末杭州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0152",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末杭州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0153",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周重庆的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0154",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0155",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天北京的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天北京天气多云，温度21度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0156",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0157",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末上海的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末上海天气阴，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0158",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0159",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下明天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0160",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下这周武汉的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0161",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0162",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0163",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天天气雷阵雨，温度26度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0164",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周南京天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0165",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "周末杭州温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0166",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0167",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0168",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天广州会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0169",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "周末北京天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0170",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周天气晴，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0171",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "周末天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0172",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天广州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天广州天气雷阵雨，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0173",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周上海的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0174",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天天气小雨，温度18度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0175",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末上海的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0176",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下下周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0177",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末南京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0178",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0179",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天天气晴，温度31度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0180",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天天气雷阵雨，温度22度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0181",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0182",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下后天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0183",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天北京的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天北京天气雪，温度19度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0184",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周西安的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0185",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0186",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0187",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气雷阵雨，温度20度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0188",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0189",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0190",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末重庆的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末重庆天气雪，温度26度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0191",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周天气多云，温度30度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0192",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "周末温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0193",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周南京的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周南京天气大雨，温度33度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0194",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周天气大雨，温度34度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0195",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0196",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气多云，温度32度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0197",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下明天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0198",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天西安温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0199",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这周南京会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0200",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下周末重庆的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0201",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周西安的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0202",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周北京天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0203",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周天气阴，温度31度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0204",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天天气阴，温度16度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0205",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周重庆的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0206",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周上海的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周上海天气多云，温度15度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0207",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0208",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0209",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这周天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0210",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0211",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下这周深圳的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0212",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下这周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0213",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0214",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下下周北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0215",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天天气雷阵雨，温度33度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0216",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天天气小雨，温度34度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0217",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气大雨，温度22度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0218",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0219",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天南京温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0220",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周天气雷阵雨，温度21度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0221",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0222",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天天气大雨，温度32度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0223",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周成都的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周成都天气小雨，温度33度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0224",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周天气阴，温度28度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0225",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天武汉的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天武汉天气晴，温度16度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0226",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0227",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这周会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0228",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天西安的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天西安天气大雨，温度32度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0229",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气多云，温度31度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0230",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气小雨，温度28度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0231",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天杭州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天杭州天气大雨，温度29度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0232",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周天气阴，温度33度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0233",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天天气小雨，温度20度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0234",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下这周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0235",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天南京温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0236",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天广州天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0237",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周天气阴，温度30度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0238",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0239",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天南京的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天南京天气小雨，温度32度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0240",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这周深圳温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0241",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周重庆的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0242",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末成都的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末成都天气多云，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0243",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下后天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0244",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天杭州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0245",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气小雨，温度16度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0246",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天南京的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天南京天气晴，温度20度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0247",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周深圳的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周深圳天气小雨，温度18度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0248",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周天气雪，温度28度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0249",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天天气小雨，温度25度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0250",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天广州会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0251",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周西安的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0252",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周上海的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0253",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周天气大雨，温度16度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0254",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0255",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末西安的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末西安天气小雨，温度15度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0256",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这周广州温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0257",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天成都的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天成都天气大雨，温度32度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0258",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周重庆天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0259",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天成都的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0260",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天广州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天广州天气大雨，温度23度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0261",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下今天重庆的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0262",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周杭州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周杭州天气晴，温度23度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0263",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "周末会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0264",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天天气阴，温度34度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0265",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天西安会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0266",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末成都的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末成都天气多云，温度15度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0267",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下这周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0268",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0269",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天成都的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0270",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天重庆会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0271",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周上海的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周上海天气晴，温度15度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0272",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天重庆的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天重庆天气晴，温度32度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0273",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周天气小雨，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0274",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周重庆的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0275",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天南京天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0276",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周重庆的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周重庆天气多云，温度31度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0277",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周重庆的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0278",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天天气晴，温度22度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0279",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天成都温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0280",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天西安的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0281",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周南京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0282",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周南京的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周南京天气多云，温度27度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0283",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周上海的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0284",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天成都天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0285",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气多云，温度22度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0286",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天天气多云，温度20度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0287",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0288",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0289",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周深圳的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周深圳天气多云，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0290",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周广州会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0291",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天重庆的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天重庆天气晴，温度20度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0292",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周武汉天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0293",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天天气晴，温度21度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0294",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气多云，温度22度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0295",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天重庆的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天重庆天气大雨，温度31度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0296",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0297",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下今天广州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0298",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0299",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天上海的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天上海天气小雨，温度19度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0300",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周天气小雨，温度26度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0301",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末深圳的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末深圳天气雪，温度27度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0302",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周天气大雨，温度18度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0303",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下今天深圳的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0304",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0305",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周深圳的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周深圳天气雪，温度25度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0306",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周武汉的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0307",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0308",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天武汉的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天武汉天气小雨，温度32度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0309",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "周末南京温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0310",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周广州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周广州天气晴，温度22度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0311",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天天气多云，温度31度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0312",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0313",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下今天北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0314",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天上海的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天上海天气多云，温度26度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0315",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末武汉的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末武汉天气大雨，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0316",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天天气雪，温度20度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0317",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天南京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0318",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周深圳的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周深圳天气多云，温度16度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0319",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下明天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0320",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0321",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天上海的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天上海天气大雨，温度24度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0322",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0323",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周武汉会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0324",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天南京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0325",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0326",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末西安的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末西安天气大雨，温度30度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0327",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0328",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气晴，温度23度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0329",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0330",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周成都的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0331",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天天气阴，温度17度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0332",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天天气晴，温度32度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0333",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周深圳的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0334",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天天气小雨，温度21度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0335",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天杭州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天杭州天气多云，温度21度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0336",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天上海的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天上海天气晴，温度30度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0337",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气阴，温度34度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0338",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0339",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天南京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0340",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末南京的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末南京天气小雨，温度32度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0341",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末广州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末广州天气晴，温度31度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0342",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0343",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天成都的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0344",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天深圳温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0345",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天武汉的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0346",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0347",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周重庆的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周重庆天气多云，温度18度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0348",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下明天武汉的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0349",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天西安温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0350",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周南京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0351",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下今天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0352",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天成都的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天成都天气阴，温度26度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0353",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天上海的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0354",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天南京温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0355",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0356",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "周末杭州会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0357",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天天气小雨，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0358",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天成都温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0359",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天武汉的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天武汉天气小雨，温度26度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0360",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0361",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天上海的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天上海天气多云，温度27度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0362",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下下周西安的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0363",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天天气晴，温度23度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0364",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "周末会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0365",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天广州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天广州天气大雨，温度20度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0366",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下后天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0367",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周天气小雨，温度19度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0368",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末重庆的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末重庆天气大雨，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0369",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天深圳的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0370",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天广州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0371",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天天气阴，温度24度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0372",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末西安的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末西安天气阴，温度15度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0373",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0374",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0375",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这周会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0376",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周深圳的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0377",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天天气雷阵雨，温度32度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0378",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天上海的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0379",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下下周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0380",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天广州会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0381",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这周广州会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0382",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天西安温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0383",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0384",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天广州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0385",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下明天广州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0386",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "周末深圳会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0387",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天天气小雨，温度18度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0388",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天杭州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0389",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周南京的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周南京天气晴，温度23度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0390",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天成都的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天成都天气雪，温度21度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0391",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0392",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天深圳的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天深圳天气晴，温度33度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0393",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天成都的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天成都天气多云，温度20度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0394",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0395",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这周广州会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0396",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周南京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0397",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0398",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0399",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周杭州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周杭州天气雷阵雨，温度30度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0400",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天成都的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天成都天气雷阵雨，温度29度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0401",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周天气多云，温度17度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0402",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周杭州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0403",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0404",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周天气多云，温度25度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0405",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气多云，温度31度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0406",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天杭州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天杭州天气小雨，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0407",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天上海会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0408",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下明天西安的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0409",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周重庆的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周重庆天气大雨，温度23度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0410",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天上海的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0411",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0412",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天武汉温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0413",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天上海的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天上海天气晴，温度21度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0414",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0415",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周天气雷阵雨，温度20度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0416",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天重庆的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天重庆天气雷阵雨，温度29度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0417",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周广州温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0418",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末重庆的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末重庆天气阴，温度25度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0419",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周武汉的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0420",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "周末深圳温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0421",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0422",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周杭州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周杭州天气晴，温度31度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0423",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天深圳的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0424",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这周会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0425",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天成都温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0426",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天杭州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天杭州天气晴，温度33度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0427",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周天气晴，温度25度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0428",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天重庆温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0429",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0430",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末武汉的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0431",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下下周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0432",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天北京会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0433",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天深圳的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0434",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0435",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天武汉天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0436",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0437",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下这周武汉的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0438",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周武汉的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周武汉天气大雨，温度21度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0439",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天武汉天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0440",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "周末会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0441",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0442",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气大雨，温度19度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0443",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0444",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天天气雷阵雨，温度16度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0445",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天天气晴，温度25度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0446",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0447",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天南京会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0448",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天天气小雨，温度33度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0449",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天杭州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0450",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0451",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周天气阴，温度18度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0452",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0453",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天上海的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0454",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周深圳的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周深圳天气小雨，温度32度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0455",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下后天南京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0456",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周成都的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周成都天气阴，温度26度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0457",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周温度多少"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0458",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0459",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下这周武汉的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0460",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周天气雪，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0461",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末广州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0462",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天广州的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0463",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天深圳的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天深圳天气阴，温度31度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0464",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0465",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周南京会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0466",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0467",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0468",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0469",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0470",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周天气大雨，温度34度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0471",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天北京的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天北京天气晴，温度30度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0472",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气雷阵雨，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0473",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "周末会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0474",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天武汉会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0475",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天天气雪，温度21度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0476",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下周末的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0477",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天西安的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天西安天气小雨，温度27度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0478",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气雷阵雨，温度25度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0479",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周天气大雨，温度32度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0480",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天西安的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...今天西安天气多云，温度31度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0481",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周武汉的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周武汉天气雪，温度35度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0482",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下后天武汉的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0483",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天重庆会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0484",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0485",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下这周重庆的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0486",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0487",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下周末的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...周末天气晴，温度23度。"
+      },
+      {
+        "speaker": "user",
+        "text": "需要带伞吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0488",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下这周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...这周天气雪，温度20度。"
+      },
+      {
+        "speaker": "user",
+        "text": "那后天呢"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0489",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下这周西安的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0490",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...下周天气大雨，温度20度。"
+      },
+      {
+        "speaker": "user",
+        "text": "空气质量怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0491",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下后天广州的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...后天广州天气大雨，温度19度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0492",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下周末北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0493",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下今天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0494",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "查一下后天的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0495",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下下周北京的天气"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0496",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "周末西安天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0497",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想查一下明天的天气"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询...明天天气大雨，温度23度。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0498",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这周北京会下雨吗"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0499",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下周天气怎么样"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0500",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天广州会下雨吗"
+      }
+    ],
+    "label": 2
+  }
+]

@@ -1,0 +1,8978 @@
+[
+  {
+    "dialogue_id": "d_5_0001",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0002",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0003",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "中午12点别忘了提醒我打电话"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0004",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午6点别忘了提醒我休息"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0005",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0006",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0007",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0008",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的取快递提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的取快递提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0009",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的取快递提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的取快递提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消每天的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0010",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0011",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置明天的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0012",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0013",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置晚上8点的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0014",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0015",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置晚上8点的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0016",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0017",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0018",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置早上7点的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0019",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个晚上8点去银行的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0020",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个明天喝水的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0021",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天别忘了提醒我喝水"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0022",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0023",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置上午9点的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0024",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置后天的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0025",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "上午9点别忘了提醒我去银行"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0026",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午3点提醒我休息"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0027",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0028",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置早上7点的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0029",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0030",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个中午12点打电话的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0031",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0032",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "中午12点别忘了提醒我运动"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0033",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0034",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的运动提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午6点的运动提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0035",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0036",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "中午12点提醒我取快递"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0037",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0038",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0039",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0040",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0041",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午6点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0042",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置明天的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0043",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的取快递提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的取快递提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消明天的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0044",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消中午12点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0045",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的运动提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置早上7点的运动提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0046",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0047",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的运动提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置上午9点的运动提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消上午9点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0048",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0049",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0050",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置晚上8点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消晚上8点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0051",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午6点提醒我运动"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0052",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0053",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0054",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的运动提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的运动提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消明天的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0055",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "早上7点提醒我休息"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0056",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消中午12点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0057",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0058",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个每天运动的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0059",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置后天的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0060",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置早上7点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0061",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0062",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0063",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置早上7点的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0064",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0065",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置早上7点的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0066",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0067",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置上午9点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0068",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0069",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置明天的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0070",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0071",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "早上7点提醒我去银行"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0072",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "晚上8点提醒我运动"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0073",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置上午9点的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0074",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天提醒我打电话"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0075",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0076",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的运动提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的运动提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0077",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0078",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午3点别忘了提醒我喝水"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0079",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0080",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0081",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0082",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "上午9点别忘了提醒我休息"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0083",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个上午9点运动的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0084",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0085",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0086",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置晚上8点的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0087",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0088",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0089",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置后天的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0090",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的运动提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置早上7点的运动提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0091",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置上午9点的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0092",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的运动提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的运动提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0093",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "早上7点别忘了提醒我吃药"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0094",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0095",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天提醒我运动"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0096",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置后天的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0097",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0098",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0099",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置晚上8点的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0100",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置每天的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0101",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0102",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0103",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置早上7点的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消早上7点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0104",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置下午3点的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0105",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置中午12点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0106",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的运动提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的运动提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0107",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置上午9点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消上午9点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0108",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0109",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置明天的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0110",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0111",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消下午3点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0112",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个晚上8点去银行的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0113",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个后天取快递的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0114",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消明天的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0115",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天提醒我去银行"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0116",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0117",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消中午12点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0118",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0119",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0120",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0121",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置后天的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0122",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "早上7点别忘了提醒我开会"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0123",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0124",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0125",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0126",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0127",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0128",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0129",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0130",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0131",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天别忘了提醒我开会"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0132",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置早上7点的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0133",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0134",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "中午12点提醒我开会"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0135",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天提醒我去银行"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0136",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0137",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0138",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0139",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0140",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "晚上8点别忘了提醒我吃药"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0141",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0142",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "中午12点提醒我取快递"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0143",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个上午9点去银行的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0144",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午6点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0145",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置晚上8点的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0146",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天提醒我吃药"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0147",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0148",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置早上7点的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0149",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0150",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置上午9点的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0151",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0152",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午6点别忘了提醒我喝水"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0153",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个下午3点取快递的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0154",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置上午9点的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0155",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0156",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午3点提醒我打电话"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0157",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0158",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0159",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0160",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置晚上8点的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0161",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0162",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置早上7点的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0163",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个早上7点取快递的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0164",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0165",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置每天的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0166",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0167",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的运动提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的运动提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0168",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置晚上8点的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0169",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置晚上8点的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0170",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0171",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个晚上8点去银行的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0172",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置上午9点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0173",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0174",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0175",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0176",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的取快递提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的取快递提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0177",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0178",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的运动提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的运动提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0179",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "中午12点提醒我喝水"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0180",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0181",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0182",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午6点提醒我取快递"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0183",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的打电话提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的打电话提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消中午12点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0184",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "晚上8点提醒我运动"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0185",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置晚上8点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消晚上8点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0186",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0187",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午6点别忘了提醒我喝水"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0188",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "上午9点别忘了提醒我喝水"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0189",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0190",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0191",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0192",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个每天运动的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0193",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0194",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的打电话提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的打电话提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0195",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消下午3点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0196",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "每天别忘了提醒我取快递"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0197",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个下午6点运动的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0198",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0199",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0200",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置晚上8点的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0201",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置上午9点的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0202",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0203",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0204",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0205",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0206",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0207",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0208",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0209",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消后天的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0210",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0211",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午6点的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0212",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0213",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "晚上8点别忘了提醒我开会"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0214",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0215",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0216",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置下午3点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0217",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置早上7点的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0218",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个中午12点去银行的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0219",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0220",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0221",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "上午9点别忘了提醒我打电话"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0222",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消明天的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0223",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置早上7点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0224",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0225",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0226",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0227",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0228",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "上午9点提醒我喝水"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0229",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0230",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天提醒我休息"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0231",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消中午12点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0232",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0233",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "上午9点提醒我起床"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0234",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消每天的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0235",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置早上7点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0236",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的取快递提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的取快递提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0237",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0238",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置上午9点的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0239",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0240",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0241",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置中午12点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0242",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "每天提醒我休息"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0243",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "上午9点别忘了提醒我打电话"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0244",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0245",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0246",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0247",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0248",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天别忘了提醒我起床"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0249",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的打电话提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的打电话提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0250",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置上午9点的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0251",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午3点别忘了提醒我吃药"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0252",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置中午12点的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0253",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置晚上8点的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0254",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0255",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0256",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消中午12点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0257",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置下午6点的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0258",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0259",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0260",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消每天的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0261",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个晚上8点去银行的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0262",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午3点别忘了提醒我喝水"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0263",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个每天喝水的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0264",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "晚上8点别忘了提醒我喝水"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0265",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0266",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午6点提醒我开会"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0267",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0268",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "上午9点别忘了提醒我吃药"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0269",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0270",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0271",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0272",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置晚上8点的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0273",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0274",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的取快递提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的取快递提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0275",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置下午6点的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0276",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消中午12点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0277",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午6点的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0278",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消下午3点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0279",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个后天起床的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0280",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午6点的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消下午6点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0281",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0282",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0283",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置上午9点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0284",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "中午12点提醒我开会"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0285",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的打电话提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午6点的打电话提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消下午6点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0286",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置明天的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0287",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0288",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消每天的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0289",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个下午3点开会的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0290",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0291",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0292",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0293",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "中午12点别忘了提醒我喝水"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0294",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "每天提醒我起床"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0295",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0296",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "晚上8点别忘了提醒我喝水"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0297",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的打电话提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的打电话提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0298",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0299",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0300",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天别忘了提醒我运动"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0301",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消每天的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0302",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0303",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天别忘了提醒我起床"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0304",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0305",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0306",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0307",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0308",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置每天的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0309",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0310",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置中午12点的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0311",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0312",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0313",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "每天提醒我休息"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0314",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0315",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "晚上8点提醒我去银行"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0316",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0317",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置下午6点的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0318",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0319",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个中午12点运动的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0320",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午6点的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消下午6点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0321",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0322",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消中午12点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0323",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0324",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置早上7点的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0325",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0326",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0327",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0328",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0329",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0330",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置中午12点的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0331",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午6点别忘了提醒我喝水"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0332",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0333",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0334",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的运动提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的运动提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0335",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的运动提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的运动提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0336",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天别忘了提醒我开会"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0337",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "中午12点提醒我去银行"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0338",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0339",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0340",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0341",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0342",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "每天提醒我去银行"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0343",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0344",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0345",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的运动提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的运动提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0346",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "中午12点提醒我开会"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0347",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "晚上8点别忘了提醒我运动"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0348",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0349",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0350",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0351",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0352",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的打电话提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置早上7点的打电话提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0353",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0354",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0355",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的运动提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午6点的运动提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0356",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0357",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置上午9点的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0358",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天提醒我喝水"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0359",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置晚上8点的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消晚上8点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0360",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "每天提醒我吃药"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0361",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午3点别忘了提醒我去银行"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0362",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置晚上8点的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消晚上8点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0363",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置上午9点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0364",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0365",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置早上7点的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0366",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0367",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个早上7点运动的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0368",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0369",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个中午12点取快递的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0370",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0371",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0372",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "中午12点提醒我运动"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0373",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的打电话提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的打电话提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0374",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0375",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0376",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "中午12点提醒我运动"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0377",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0378",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0379",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0380",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "每天提醒我喝水"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0381",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置晚上8点的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0382",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置每天的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0383",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0384",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置早上7点的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0385",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午6点的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0386",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个每天喝水的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0387",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的打电话提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午6点的打电话提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0388",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0389",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0390",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个后天运动的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0391",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0392",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个后天吃药的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0393",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个中午12点运动的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0394",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0395",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0396",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0397",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置上午9点的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0398",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0399",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0400",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置上午9点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消上午9点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0401",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "上午9点提醒我开会"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0402",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午3点别忘了提醒我喝水"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0403",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "早上7点提醒我开会"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0404",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置晚上8点的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0405",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置后天的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0406",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0407",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午3点别忘了提醒我开会"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0408",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0409",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "上午9点别忘了提醒我打电话"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0410",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置每天的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0411",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置下午3点的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0412",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0413",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0414",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消明天的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0415",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "上午9点提醒我运动"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0416",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0417",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置晚上8点的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0418",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置早上7点的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0419",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0420",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0421",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午6点的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0422",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午6点别忘了提醒我取快递"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0423",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0424",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置中午12点的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0425",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0426",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "上午9点别忘了提醒我去银行"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0427",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置上午9点的起床提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0428",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天别忘了提醒我起床"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0429",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0430",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0431",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消下午3点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0432",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的打电话提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的打电话提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0433",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0434",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个明天喝水的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0435",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0436",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0437",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个晚上8点打电话的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0438",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "上午9点别忘了提醒我开会"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0439",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0440",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0441",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0442",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "早上7点提醒我吃药"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0443",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0444",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0445",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置上午9点的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消上午9点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0446",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0447",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0448",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个上午9点开会的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0449",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置中午12点的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0450",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消每天的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0451",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0452",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的休息提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置早上7点的休息提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0453",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置早上7点的开会提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0454",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消中午12点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0455",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0456",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午6点的打电话提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午6点的打电话提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0457",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的去银行提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的去银行提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0458",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0459",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0460",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的运动提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0461",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0462",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的取快递提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置上午9点的取快递提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消上午9点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0463",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0464",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个早上7点起床的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0465",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午6点提醒我喝水"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0466",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "晚上8点提醒我起床"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0467",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午6点提醒我吃药"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0468",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午3点别忘了提醒我开会"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0469",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "每天提醒我运动"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0470",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午6点提醒我喝水"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0471",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0472",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0473",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个晚上8点休息的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0474",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消下午3点的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0475",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的吃药提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置晚上8点的吃药提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0476",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的打电话提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0477",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "每天提醒我吃药"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0478",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的取快递提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的取快递提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0479",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置下午6点的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0480",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0481",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置下午3点的运动提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的运动提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "再加个备注"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0482",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的打电话提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的打电话提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "删除这个提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0483",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置每天的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消每天的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0484",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "晚上8点别忘了提醒我休息"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0485",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的开会提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的开会提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消明天的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0486",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置下午3点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0487",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的喝水提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置后天的喝水提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0488",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "下午6点提醒我打电话"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0489",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的取快递提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0490",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的休息提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0491",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "上午9点别忘了提醒我休息"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0492",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置上午9点的喝水提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0493",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我设个后天休息的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0494",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置后天的吃药提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0495",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天别忘了提醒我开会"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0496",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的去银行提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0497",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置中午12点的取快递提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置中午12点的取快递提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "修改一下时间"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0498",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置晚上8点的起床提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置晚上8点的起床提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "查看我的所有提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0499",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置明天的打电话提醒"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天的打电话提醒。"
+      },
+      {
+        "speaker": "user",
+        "text": "取消明天的提醒"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0500",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "我想设置早上7点的开会提醒"
+      }
+    ],
+    "label": 5
+  }
+]

@@ -1,0 +1,9050 @@
+[
+  {
+    "dialogue_id": "d_1_0001",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0002",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0003",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0004",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0005",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0006",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0007",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0008",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0009",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0010",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0011",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0012",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0013",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0014",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0015",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0016",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0017",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0018",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0019",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0020",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0021",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "今天过得好吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0022",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0023",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天过得好吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0024",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "今天过得好吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0025",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0026",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0027",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0028",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0029",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0030",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天过得好吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0031",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0032",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0033",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0034",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0035",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0036",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0037",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0038",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0039",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0040",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0041",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0042",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0043",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0044",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0045",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0046",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0047",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0048",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0049",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0050",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0051",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0052",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0053",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0054",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0055",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0056",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0057",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0058",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0059",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0060",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "早上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0061",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0062",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0063",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0064",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0065",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0066",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0067",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0068",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "早上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0069",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0070",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0071",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0072",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0073",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "早上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0074",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0075",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0076",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0077",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "今天过得好吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0078",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0079",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0080",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0081",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0082",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0083",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0084",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0085",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0086",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0087",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0088",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "早上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0089",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0090",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0091",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0092",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0093",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0094",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0095",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0096",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0097",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0098",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0099",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0100",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0101",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0102",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0103",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0104",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0105",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0106",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0107",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0108",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0109",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0110",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0111",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0112",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0113",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0114",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0115",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0116",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0117",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0118",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0119",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0120",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0121",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0122",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0123",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0124",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0125",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0126",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0127",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0128",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0129",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0130",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0131",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0132",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0133",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0134",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0135",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0136",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0137",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0138",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0139",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0140",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0141",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0142",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0143",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0144",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0145",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0146",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0147",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0148",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0149",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0150",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0151",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0152",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0153",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0154",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0155",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天过得好吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0156",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0157",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0158",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "早上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0159",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0160",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0161",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0162",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0163",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "早上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0164",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0165",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0166",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0167",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0168",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0169",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0170",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0171",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0172",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0173",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0174",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "今天过得好吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0175",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0176",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0177",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0178",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0179",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0180",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0181",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0182",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0183",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0184",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0185",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0186",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0187",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0188",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0189",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0190",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0191",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0192",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0193",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0194",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "早上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0195",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0196",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0197",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0198",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0199",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0200",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0201",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0202",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0203",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0204",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0205",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0206",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0207",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0208",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0209",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "早上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0210",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0211",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0212",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0213",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0214",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0215",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0216",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0217",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0218",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0219",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0220",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0221",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0222",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0223",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0224",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0225",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0226",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0227",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0228",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0229",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0230",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0231",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0232",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0233",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0234",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0235",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0236",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "今天过得好吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0237",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0238",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0239",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0240",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0241",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "今天过得好吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0242",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0243",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0244",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0245",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0246",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0247",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0248",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0249",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0250",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0251",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0252",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0253",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0254",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0255",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0256",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0257",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0258",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0259",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0260",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0261",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "早上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0262",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0263",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0264",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0265",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0266",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0267",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0268",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0269",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0270",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0271",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0272",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0273",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0274",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0275",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0276",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0277",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0278",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0279",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0280",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0281",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0282",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0283",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0284",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "今天过得好吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0285",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0286",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0287",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0288",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0289",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "早上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0290",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0291",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0292",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0293",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0294",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0295",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0296",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0297",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0298",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0299",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "今天过得好吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0300",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0301",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0302",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0303",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0304",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0305",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0306",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0307",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0308",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0309",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0310",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0311",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0312",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0313",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0314",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0315",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0316",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "今天过得好吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0317",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0318",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0319",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0320",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0321",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0322",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0323",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0324",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天过得好吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0325",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0326",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0327",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0328",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0329",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0330",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0331",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0332",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0333",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0334",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "早上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0335",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0336",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0337",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "早上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0338",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0339",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0340",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0341",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0342",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0343",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0344",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0345",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0346",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0347",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0348",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0349",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0350",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0351",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0352",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0353",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0354",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0355",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0356",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0357",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0358",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0359",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0360",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0361",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0362",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0363",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0364",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0365",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0366",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0367",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0368",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0369",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0370",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0371",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0372",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0373",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0374",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0375",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0376",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0377",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0378",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0379",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "早上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0380",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0381",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0382",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0383",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0384",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0385",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0386",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0387",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0388",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0389",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0390",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0391",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0392",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0393",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0394",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0395",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0396",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0397",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0398",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0399",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0400",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0401",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0402",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0403",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0404",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0405",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0406",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0407",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0408",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0409",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0410",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0411",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0412",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0413",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0414",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0415",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0416",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0417",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0418",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0419",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0420",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0421",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0422",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "早上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0423",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0424",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0425",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0426",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0427",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0428",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0429",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0430",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "早上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0431",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0432",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "今天过得好吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0433",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0434",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0435",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0436",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0437",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "晚上好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0438",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0439",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0440",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0441",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0442",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0443",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0444",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0445",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0446",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0447",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0448",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0449",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0450",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0451",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0452",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0453",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0454",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0455",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天过得好吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0456",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0457",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0458",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "人生的意义？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0459",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0460",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0461",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0462",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0463",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0464",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0465",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0466",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你开心吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0467",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0468",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0469",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0470",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0471",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0472",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0473",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0474",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你是真正的智能吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0475",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0476",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0477",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0478",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的爱好是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0479",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0480",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0481",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0482",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会难过吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0483",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0484",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0485",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会思考吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0486",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0487",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0488",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0489",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会孤独吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0490",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0491",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0492",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你的梦想是什么？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0493",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "AI会取代人类吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0494",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "你好？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0495",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你有情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0496",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢音乐吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0497",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！很高兴见到您。"
+      },
+      {
+        "speaker": "user",
+        "text": "最近怎么样？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0498",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0499",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "什么是幸福？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0500",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好！"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！有什么可以帮您的吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "随便聊聊吧"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，我很乐意和您聊天。"
+      },
+      {
+        "speaker": "user",
+        "text": "你对未来的看法？"
+      }
+    ],
+    "label": 1
+  }
+]

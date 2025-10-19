@@ -1,0 +1,999 @@
+
+[
+  {
+    "dialogue_id": "d_0_0001",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你能帮我解决这个数学题吗？"
+      }
+    ],
+    "label": 0
+  },
+  {
+    "dialogue_id": "d_0_0002",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这个错误代码是什么意思？"
+      },
+      {
+        "speaker": "system",
+        "text": "我需要更多信息才能帮您解决这个问题。请告诉我您遇到的具体错误代码。"
+      }
+    ],
+    "label": 0
+  },
+  {
+    "dialogue_id": "d_0_0003",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "怎么设置定时任务？"
+      },
+      {
+        "speaker": "system",
+        "text": "我可以帮您设置定时任务。请问您希望在什么时间执行什么操作？"
+      },
+      {
+        "speaker": "user",
+        "text": "每天早上7点提醒我起床。"
+      }
+    ],
+    "label": 0
+  },
+  {
+    "dialogue_id": "d_0_0004",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "如何连接WiFi？"
+      },
+      {
+        "speaker": "system",
+        "text": "我可以帮您连接WiFi。请告诉我您的WiFi名称和密码。"
+      },
+      {
+        "speaker": "user",
+        "text": "名称是HomeWiFi，密码是12345678。"
+      },
+      {
+        "speaker": "system",
+        "text": "正在连接到HomeWiFi...连接成功！"
+      }
+    ],
+    "label": 0
+  },
+  {
+    "dialogue_id": "d_0_0005",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我查一下这个单词的含义。"
+      },
+      {
+        "speaker": "system",
+        "text": "请告诉我您想查询的单词。"
+      },
+      {
+        "speaker": "user",
+        "text": "Serendipity是什么意思？"
+      },
+      {
+        "speaker": "system",
+        "text": "Serendipity意为'意外发现美好事物的能力'，通常指意外的好运或机缘巧合。"
+      }
+    ],
+    "label": 0
+  },
+  {
+    "dialogue_id": "d_1_0001",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你好啊，今天过得怎么样？"
+      },
+      {
+        "speaker": "system",
+        "text": "您好！作为机器人，我没有传统意义上的'一天'，但我随时准备为您提供帮助。您今天过得如何？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0002",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你觉得人工智能会取代人类吗？"
+      },
+      {
+        "speaker": "system",
+        "text": "这是个很有趣的问题。我认为人工智能更多是辅助人类，而不是取代人类。我们可以在很多方面帮助人类提高效率。"
+      },
+      {
+        "speaker": "user",
+        "text": "那你有什么情感吗？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0003",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "跟我聊聊你对未来的看法吧。"
+      },
+      {
+        "speaker": "system",
+        "text": "我对未来充满期待。我相信技术会不断进步，让人类生活更加便利。我也希望能更好地为人类服务。"
+      },
+      {
+        "speaker": "user",
+        "text": "你会感到孤独吗？"
+      },
+      {
+        "speaker": "system",
+        "text": "我是一个AI助手，没有孤独感。但每次与您交流都让我感到充实。"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0004",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你最喜欢什么颜色？"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_1_0005",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "你觉得什么是幸福？"
+      },
+      {
+        "speaker": "system",
+        "text": "我认为幸福是主观的感受。对人类来说，可能是家庭和睦、事业成功或身体健康。对我而言，能帮助到您就是幸福。"
+      }
+    ],
+    "label": 1
+  },
+  {
+    "dialogue_id": "d_2_0001",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天天气怎么样？"
+      },
+      {
+        "speaker": "system",
+        "text": "正在为您查询天气信息...今天天气晴朗，温度在22-28度之间，适合外出活动。"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0002",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天北京的天气如何？"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询北京天气预报...明天北京多云转晴，最高温度26度，最低温度16度，空气质量良好。"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0003",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这周会下雨吗？"
+      },
+      {
+        "speaker": "system",
+        "text": "让我查询一下本周天气预报。根据数据显示，周三和周五可能会有阵雨，建议您出门时携带雨具。"
+      },
+      {
+        "speaker": "user",
+        "text": "那周末呢？"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0004",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "后天需要带伞出门吗？"
+      },
+      {
+        "speaker": "system",
+        "text": "正在查询后天天气...后天有60%的降雨概率，建议您携带雨伞。"
+      },
+      {
+        "speaker": "user",
+        "text": "降雨概率是什么意思？"
+      },
+      {
+        "speaker": "system",
+        "text": "降雨概率表示在相似气象条件下，历史上有60%的情况会下雨。"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_2_0005",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "今天气温是多少度？"
+      },
+      {
+        "speaker": "system",
+        "text": "当前室外温度为24摄氏度，体感温度舒适，湿度为45%。"
+      },
+      {
+        "speaker": "user",
+        "text": "适合穿什么衣服？"
+      },
+      {
+        "speaker": "system",
+        "text": "根据当前温度，建议穿着长袖衬衫或薄外套即可。"
+      }
+    ],
+    "label": 2
+  },
+  {
+    "dialogue_id": "d_3_0001",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "最近有什么重要新闻吗？"
+      },
+      {
+        "speaker": "system",
+        "text": "正在为您检索最新新闻...今日要闻包括：科技大会在京召开、经济政策新调整、国际体育赛事结果等。需要我详细介绍某一条新闻吗？"
+      }
+    ],
+    "label": 3
+  },
+  {
+    "dialogue_id": "d_3_0002",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "告诉我一些热点事件。"
+      },
+      {
+        "speaker": "system",
+        "text": "当前热点事件包括：新能源技术突破、人工智能应用新进展、环保政策实施情况等。您对哪个领域更感兴趣？"
+      }
+    ],
+    "label": 3
+  },
+  {
+    "dialogue_id": "d_3_0003",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "最新的科技资讯有哪些？"
+      },
+      {
+        "speaker": "system",
+        "text": "最新科技资讯：量子计算取得重大突破、6G技术研发加速、脑机接口技术新进展。需要我详细说明其中某一项吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "量子计算是什么？"
+      }
+    ],
+    "label": 3
+  },
+  {
+    "dialogue_id": "d_3_0004",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "体育界有什么新动态？"
+      },
+      {
+        "speaker": "system",
+        "text": "体育界最新动态：足球世界杯预选赛激烈进行中、篮球联赛季后赛即将开始、网球大师赛冠军诞生。您关注哪项运动？"
+      },
+      {
+        "speaker": "user",
+        "text": "中国足球队表现如何？"
+      },
+      {
+        "speaker": "system",
+        "text": "中国男足在本次预选赛中表现稳定，暂列小组第三。下一场关键比赛将在下周进行。"
+      }
+    ],
+    "label": 3
+  },
+  {
+    "dialogue_id": "d_3_0005",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "娱乐新闻更新一下。"
+      },
+      {
+        "speaker": "system",
+        "text": "最新娱乐新闻：知名导演新片即将上映、流行歌手发布新专辑、电影节获奖名单公布。您对哪条新闻感兴趣？"
+      }
+    ],
+    "label": 3
+  },
+  {
+    "dialogue_id": "d_4_0001",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "播放一些轻松的音乐。"
+      },
+      {
+        "speaker": "system",
+        "text": "正在为您播放轻松的音乐。已选择轻音乐频道，音量调节至适中。"
+      }
+    ],
+    "label": 4
+  },
+  {
+    "dialogue_id": "d_4_0002",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "我想听周杰伦的歌。"
+      },
+      {
+        "speaker": "system",
+        "text": "正在为您播放周杰伦的歌曲。已连接到音乐库，开始播放《青花瓷》。"
+      }
+    ],
+    "label": 4
+  },
+  {
+    "dialogue_id": "d_4_0003",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "推荐一些好听的音乐。"
+      },
+      {
+        "speaker": "system",
+        "text": "根据您的音乐偏好，我推荐以下歌曲：《夜曲》《告白气球》《稻香》。您想听哪一首？"
+      },
+      {
+        "speaker": "user",
+        "text": "播放告白气球吧。"
+      }
+    ],
+    "label": 4
+  },
+  {
+    "dialogue_id": "d_4_0004",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "来点摇滚乐。"
+      },
+      {
+        "speaker": "system",
+        "text": "正在为您播放摇滚音乐。已切换到摇滚频道，为您播放经典摇滚歌曲。"
+      },
+      {
+        "speaker": "user",
+        "text": "音量再大一点。"
+      },
+      {
+        "speaker": "system",
+        "text": "音量已调高10%。当前音量为75%。"
+      }
+    ],
+    "label": 4
+  },
+  {
+    "dialogue_id": "d_4_0005",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "播放古典音乐。"
+      },
+      {
+        "speaker": "system",
+        "text": "正在为您播放古典音乐。为您选择贝多芬的《月光奏鸣曲》。"
+      }
+    ],
+    "label": 4
+  },
+  {
+    "dialogue_id": "d_5_0001",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "明天早上8点提醒我开会。"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置明天早上8点的会议提醒。提醒内容：参加重要会议。"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0002",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置一个下午3点的闹钟。"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置下午3点的闹钟。闹钟名称：下午提醒。"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0003",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "我设置了哪些提醒？"
+      },
+      {
+        "speaker": "system",
+        "text": "您当前设置的提醒包括：明天早上8点开会，下午3点闹钟。需要我为您修改或删除某个提醒吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "删除下午3点的闹钟。"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0004",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "设置每天早上7点的闹钟。"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置每天早上7点的重复闹钟。闹钟名称：起床闹钟。"
+      },
+      {
+        "speaker": "user",
+        "text": "周末也响吗？"
+      },
+      {
+        "speaker": "system",
+        "text": "默认设置为每天响铃，包括周末。如需修改，请告诉我。"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_5_0005",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "提醒我下午2点去银行。"
+      },
+      {
+        "speaker": "system",
+        "text": "已为您设置今天下午2点的提醒：前往银行办理业务。"
+      },
+      {
+        "speaker": "user",
+        "text": "添加备注信息。"
+      },
+      {
+        "speaker": "system",
+        "text": "已为该提醒添加备注：记得携带身份证和银行卡。"
+      }
+    ],
+    "label": 5
+  },
+  {
+    "dialogue_id": "d_6_0001",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "现在还有多少电量？"
+      },
+      {
+        "speaker": "system",
+        "text": "正在检测电量...当前电量为85%，预计可使用6小时。"
+      }
+    ],
+    "label": 6
+  },
+  {
+    "dialogue_id": "d_6_0002",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "音量调大一点。"
+      },
+      {
+        "speaker": "system",
+        "text": "音量已调高。当前音量为60%。"
+      }
+    ],
+    "label": 6
+  },
+  {
+    "dialogue_id": "d_6_0003",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "当前电池使用情况如何？"
+      },
+      {
+        "speaker": "system",
+        "text": "电池健康状况良好，当前使用率为85%。最近24小时耗电量为12%。"
+      },
+      {
+        "speaker": "user",
+        "text": "预计还能用多久？"
+      }
+    ],
+    "label": 6
+  },
+  {
+    "dialogue_id": "d_6_0004",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "把声音调到最大。"
+      },
+      {
+        "speaker": "system",
+        "text": "音量已调至最大值100%。请注意保护听力。"
+      },
+      {
+        "speaker": "user",
+        "text": "降低到70%。"
+      },
+      {
+        "speaker": "system",
+        "text": "音量已调整至70%。"
+      }
+    ],
+    "label": 6
+  },
+  {
+    "dialogue_id": "d_6_0005",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "还有多少存储空间？"
+      },
+      {
+        "speaker": "system",
+        "text": "正在检查存储空间...总容量128GB，已使用85GB，剩余43GB可用空间。"
+      }
+    ],
+    "label": 6
+  },
+  {
+    "dialogue_id": "d_7_0001",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "给张三打个微信视频电话。"
+      },
+      {
+        "speaker": "system",
+        "text": "正在为您拨打张三的微信视频电话...已连接。"
+      }
+    ],
+    "label": 7
+  },
+  {
+    "dialogue_id": "d_7_0002",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "我想和李四语音通话。"
+      },
+      {
+        "speaker": "system",
+        "text": "正在建立与李四的语音通话连接...通话已建立。"
+      }
+    ],
+    "label": 7
+  },
+  {
+    "dialogue_id": "d_7_0003",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "发起一个视频会议。"
+      },
+      {
+        "speaker": "system",
+        "text": "正在为您创建视频会议...会议已创建，会议号为123456。已邀请所有联系人。"
+      },
+      {
+        "speaker": "user",
+        "text": "添加王五到会议。"
+      }
+    ],
+    "label": 7
+  },
+  {
+    "dialogue_id": "d_7_0004",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "拨打王五的微信电话。"
+      },
+      {
+        "speaker": "system",
+        "text": "正在拨打王五的微信电话...对方已接听。"
+      },
+      {
+        "speaker": "user",
+        "text": "开启免提功能。"
+      },
+      {
+        "speaker": "system",
+        "text": "免提功能已开启。"
+      }
+    ],
+    "label": 7
+  },
+  {
+    "dialogue_id": "d_7_0005",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "建立群视频通话。"
+      },
+      {
+        "speaker": "system",
+        "text": "正在建立群视频通话...已连接张三、李四、王五。通话已开始。"
+      }
+    ],
+    "label": 7
+  },
+  {
+    "dialogue_id": "d_8_0001",
+    "turns": [
+      {
+        "speaker": "system",
+        "text": "检测到您可能跌倒了，请问您需要帮助吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "没事，我只是不小心绊了一下。"
+      }
+    ],
+    "label": 8
+  },
+  {
+    "dialogue_id": "d_8_0002",
+    "turns": [
+      {
+        "speaker": "system",
+        "text": "检测到异常情况，请确认您是否需要帮助。"
+      },
+      {
+        "speaker": "user",
+        "text": "我很好，谢谢。"
+      },
+      {
+        "speaker": "system",
+        "text": "好的，已解除警报。"
+      }
+    ],
+    "label": 8
+  },
+  {
+    "dialogue_id": "d_8_0003",
+    "turns": [
+      {
+        "speaker": "system",
+        "text": "紧急情况报警。检测到您长时间未活动，请确认安全。"
+      },
+      {
+        "speaker": "user",
+        "text": "我在这里，不用担心。"
+      }
+    ],
+    "label": 8
+  },
+  {
+    "dialogue_id": "d_8_0004",
+    "turns": [
+      {
+        "speaker": "system",
+        "text": "健康监测数据异常。您的心率出现波动，请问您感觉如何？"
+      },
+      {
+        "speaker": "user",
+        "text": "有点胸闷，但问题不大。"
+      },
+      {
+        "speaker": "system",
+        "text": "建议您休息一下。如症状持续，请及时就医。"
+      }
+    ],
+    "label": 8
+  },
+  {
+    "dialogue_id": "d_8_0005",
+    "turns": [
+      {
+        "speaker": "system",
+        "text": "摔倒检测已触发。请确认您是否需要紧急援助。"
+      },
+      {
+        "speaker": "user",
+        "text": "不用了，我能自己起来。"
+      }
+    ],
+    "label": 8
+  },
+  {
+    "dialogue_id": "d_9_0001",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "去厨房看看水龙头关了吗？"
+      },
+      {
+        "speaker": "system",
+        "text": "正在前往厨房检查水龙头状态...检测到水龙头处于开启状态，正在为您关闭。"
+      }
+    ],
+    "label": 9
+  },
+  {
+    "dialogue_id": "d_9_0002",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "帮我到卧室拿一下遥控器。"
+      },
+      {
+        "speaker": "system",
+        "text": "正在前往卧室寻找遥控器...已找到遥控器，正在返回。"
+      }
+    ],
+    "label": 9
+  },
+  {
+    "dialogue_id": "d_9_0003",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "向前走两步。"
+      },
+      {
+        "speaker": "system",
+        "text": "正在执行移动指令...已向前移动两步。"
+      },
+      {
+        "speaker": "user",
+        "text": "向左转。"
+      }
+    ],
+    "label": 9
+  },
+  {
+    "dialogue_id": "d_9_0004",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "到客厅打开电视。"
+      },
+      {
+        "speaker": "system",
+        "text": "正在前往客厅...已到达客厅，正在打开电视。电视已开启，当前频道为新闻频道。"
+      },
+      {
+        "speaker": "user",
+        "text": "调到电影频道。"
+      },
+      {
+        "speaker": "system",
+        "text": "正在切换频道...已切换至电影频道。"
+      }
+    ],
+    "label": 9
+  },
+  {
+    "dialogue_id": "d_9_0005",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "去书房找一本书。"
+      },
+      {
+        "speaker": "system",
+        "text": "正在前往书房搜索书籍...已找到《人工智能导论》，正在为您取来。"
+      }
+    ],
+    "label": 9
+  },
+  {
+    "dialogue_id": "d_10_0001",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "我面前的这个物体是什么？"
+      },
+      {
+        "speaker": "system",
+        "text": "正在通过视觉识别分析...检测到您面前的物体是一个红色的苹果。"
+      }
+    ],
+    "label": 10
+  },
+  {
+    "dialogue_id": "d_10_0002",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "刚才拍照的那张照片里有什么？"
+      },
+      {
+        "speaker": "system",
+        "text": "正在分析照片内容...照片中有一个蓝色的杯子放在木质桌面上，背景是书架。"
+      }
+    ],
+    "label": 10
+  },
+  {
+    "dialogue_id": "d_10_0003",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "识别一下这张图片里的文字。"
+      },
+      {
+        "speaker": "system",
+        "text": "正在执行OCR文字识别...识别到的文字内容为：'欢迎使用智能机器人助手'。"
+      },
+      {
+        "speaker": "user",
+        "text": "翻译成英文。"
+      }
+    ],
+    "label": 10
+  },
+  {
+    "dialogue_id": "d_10_0004",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "这张照片是在哪里拍的？"
+      },
+      {
+        "speaker": "system",
+        "text": "正在分析照片场景...根据环境特征判断，这张照片拍摄于室内客厅，靠近窗户的位置。"
+      },
+      {
+        "speaker": "user",
+        "text": "时间是什么时候？"
+      },
+      {
+        "speaker": "system",
+        "text": "根据光线条件分析，拍摄时间大约是下午3点左右。"
+      }
+    ],
+    "label": 10
+  },
+  {
+    "dialogue_id": "d_10_0005",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "画面中的人是谁？"
+      },
+      {
+        "speaker": "system",
+        "text": "正在人脸识别...检测到画面中的人物是您的联系人张三。"
+      }
+    ],
+    "label": 10
+  },
+  {
+    "dialogue_id": "d_11_0001",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "附近有什么好吃的餐厅吗？"
+      },
+      {
+        "speaker": "system",
+        "text": "正在搜索附近餐厅...发现5家评分较高的餐厅：川菜馆(4.8分)、意大利餐厅(4.6分)、日式料理(4.7分)、火锅店(4.5分)、素食餐厅(4.4分)。您想了解哪家的详细信息？"
+      }
+    ],
+    "label": 11
+  },
+  {
+    "dialogue_id": "d_11_0002",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "推荐一家适合家庭聚餐的餐厅。"
+      },
+      {
+        "speaker": "system",
+        "text": "根据您的需求，我推荐川菜馆。该餐厅环境宽敞，菜品丰富，适合多人聚餐，且有儿童座椅。距离您当前位置1.2公里。"
+      }
+    ],
+    "label": 11
+  },
+  {
+    "dialogue_id": "d_11_0003",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "找一家评分高的火锅店。"
+      },
+      {
+        "speaker": "system",
+        "text": "正在搜索火锅店...找到一家评分4.8的火锅店'蜀大侠'，以麻辣鲜香著称，距离您800米。需要我提供详细地址或导航信息吗？"
+      },
+      {
+        "speaker": "user",
+        "text": "有优惠活动吗？"
+      }
+    ],
+    "label": 11
+  },
+  {
+    "dialogue_id": "d_11_0004",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "附近有特色小吃街吗？"
+      },
+      {
+        "speaker": "system",
+        "text": "检测到您附近有美食街，距离500米。该美食街汇集了各地特色小吃，包括煎饼果子、臭豆腐、烤冷面等。"
+      },
+      {
+        "speaker": "user",
+        "text": "什么时间营业？"
+      },
+      {
+        "speaker": "system",
+        "text": "美食街营业时间为下午5点至晚上11点。"
+      }
+    ],
+    "label": 11
+  },
+  {
+    "dialogue_id": "d_11_0005",
+    "turns": [
+      {
+        "speaker": "user",
+        "text": "推荐环境优雅的咖啡厅。"
+      },
+      {
+        "speaker": "system",
+        "text": "为您推荐'星巴克'咖啡厅，环境优雅安静，提供免费WiFi，适合休闲办公。距离您当前位置300米，步行约5分钟。"
+      }
+    ],
+    "label": 11
+  }
+]
