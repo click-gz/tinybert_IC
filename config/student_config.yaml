@@ -1,0 +1,48 @@
+# Student Model (TinyBERT-4L) Configuration
+
+data:
+  train_path: data/train.json
+  dev_path: data/dev.json
+  test_path: data/test.json
+  max_seq_length: 320  # total length for concatenated dialogue
+  num_workers: 4
+
+model:
+  # Student model: TinyBERT 4-layer
+  encoder_name: huawei-noah/TinyBERT_General_4L_312D  # 4层, 312维
+  num_labels: 12
+  dropout: 0.1
+
+training:
+  encoder_lr: 5.0e-5    # Student学习率稍高
+  task_lr: 1.0e-4
+  batch_size: 64        # Student可用更大batch size
+  num_epochs: 10        # Student需要更多轮次
+  warmup_ratio: 0.1
+  weight_decay: 0.01
+  gradient_clip: 1.0
+  patience: 5
+
+distillation:
+  # 知识蒸馏参数
+  temperature: 3.0           # 温度参数
+  alpha: 0.5                 # 蒸馏损失权重
+  beta: 0.3                  # Hidden states损失权重
+  gamma: 0.2                 # 真实标签损失权重
+  
+  # 层映射（4层Student → 12层Teacher）
+  layer_mapping:
+    0: 2    # Student层0 → Teacher层2
+    1: 5    # Student层1 → Teacher层5
+    2: 8    # Student层2 → Teacher层8
+    3: 11   # Student层3 → Teacher层11
+
+logging:
+  save_dir: checkpoints/student
+  tensorboard_dir: runs/student
+  log_every: 50
+  eval_every: 1
+
+device: cuda
+seed: 42
+
