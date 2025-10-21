@@ -79,7 +79,6 @@ def main():
         test_path=config['data']['test_path'],
         tokenizer=tokenizer,
         batch_size=config['training']['batch_size'],
-        max_turns=config['data']['max_turns'],
         max_seq_length=config['data']['max_seq_length'],
         num_workers=config['data'].get('num_workers', 4)
     )
@@ -98,7 +97,6 @@ def main():
     model = MultiTurnDialogueClassifier(
         encoder_name=config['model']['encoder_name'],
         num_labels=config['model']['num_labels'],
-        num_turns=config['data']['max_turns'],
         max_seq_length=config['data']['max_seq_length'],
         dropout=config['model']['dropout']
     )
@@ -131,7 +129,8 @@ def main():
         save_dir=config['logging']['save_dir'],
         tensorboard_dir=config['logging']['tensorboard_dir'],
         log_every=config['logging']['log_every'],
-        patience=config['training']['patience']
+        patience=config['training']['patience'],
+        keep_checkpoint_max=config['logging'].get('keep_checkpoint_max', 2)
     )
     
     logging.info("Trainer initialized successfully")

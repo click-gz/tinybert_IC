@@ -4,8 +4,7 @@ data:
   train_path: data/train.json
   dev_path: data/dev.json
   test_path: data/test.json
-  max_turns: 4  # kept for backward compatibility, not used in concatenation mode
-  max_seq_length: 320  # total length for concatenated dialogue (4 turns * 80 tokens)
+  max_seq_length: 512
   num_workers: 4
 
 model:
@@ -17,7 +16,7 @@ training:
   encoder_lr: 2.0e-5
   task_lr: 4.0e-5
   batch_size: 32
-  num_epochs: 5
+  num_epochs: 2
   warmup_ratio: 0.1
   weight_decay: 0.01
   gradient_clip: 1.0
@@ -28,7 +27,8 @@ logging:
   tensorboard_dir: runs/teacher
   log_every: 100
   eval_every: 1  # evaluate every N epochs
+  keep_checkpoint_max: 2  # keep last N checkpoints
 
-device: cuda
+device: cuda:1
 seed: 42
 

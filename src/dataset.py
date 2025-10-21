@@ -21,10 +21,8 @@ class MultiTurnDialogueDataset(Dataset):
         self,
         data_path: str,
         tokenizer: BertTokenizer,
-        max_seq_length: int = 320,  # Total length for concatenated sequence
-        is_training: bool = True,
-        # Keep these for backward compatibility but not used
-        max_turns: int = 4,
+        max_seq_length: int = 512,  # Total length for concatenated sequence
+        is_training: bool = True
     ):
         """
         Args:
@@ -106,10 +104,8 @@ def create_dataloaders(
     test_path: str,
     tokenizer: BertTokenizer,
     batch_size: int = 32,
-    max_seq_length: int = 320,  # Total length for concatenated dialogue
-    num_workers: int = 4,
-    # Keep these for backward compatibility but not used
-    max_turns: int = 4,
+    max_seq_length: int = 512,  # Total length for concatenated dialogue
+    num_workers: int = 4
 ) -> tuple:
     """
     Create train, dev, and test dataloaders

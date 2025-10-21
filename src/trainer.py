@@ -12,6 +12,11 @@ from transformers import get_linear_schedule_with_warmup
 from sklearn.metrics import f1_score, classification_report
 from tqdm import tqdm
 import logging
+import json
+import csv
+import matplotlib.pyplot as plt
+import matplotlib
+matplotlib.use('Agg')  # Use non-interactive backend
 
 
 class TeacherTrainer:
@@ -34,7 +39,8 @@ class TeacherTrainer:
         save_dir: str = 'checkpoints/teacher',
         tensorboard_dir: str = 'runs/teacher',
         log_every: int = 100,
-        patience: int = 3
+        patience: int = 3,
+        keep_checkpoint_max: int = 2
     ):
         """
         Args:
@@ -52,6 +58,7 @@ class TeacherTrainer:
             tensorboard_dir: Directory for tensorboard logs
             log_every: Log every N steps
             patience: Early stopping patience
+            keep_checkpoint_max: Maximum number of recent checkpoints to keep
         """
         self.model = model.to(device)
         self.train_loader = train_loader
@@ -95,6 +102,20 @@ class TeacherTrainer:
         self.best_epoch = 0
         self.patience_counter = 0
         self.global_step = 0
+        
+        # Keep track of recent checkpoints (for cleanup)
+        self.recent_checkpoints = []
+        self.max_checkpoints_to_keep = keep_checkpoint_max
+        
+        # Training history tracking
+        self.history = {
+            'epoch': [],
+            'train_loss': [],
+            'train_f1': [],
+            'dev_loss': [],
+            'dev_f1': [],
+            'learning_rate': []
+        }
         
         logging.info(f"Total training steps: {total_steps}")
         logging.info(f"Warmup steps: {warmup_steps}")
@@ -208,6 +229,77 @@ class TeacherTrainer:
         
         return avg_loss, macro_f1, report
     
+    def save_training_history(self):
+        """Save training history to CSV and JSON files"""
+        # Save as CSV
+        csv_path = os.path.join(self.save_dir, 'training_history.csv')
+        with open(csv_path, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.DictWriter(f, fieldnames=self.history.keys())
+            writer.writeheader()
+            # Write rows
+            num_epochs = len(self.history['epoch'])
+            for i in range(num_epochs):
+                row = {key: self.history[key][i] for key in self.history.keys()}
+                writer.writerow(row)
+        
+        logging.info(f"Training history saved to: {csv_path}")
+        
+        # Save as JSON
+        json_path = os.path.join(self.save_dir, 'training_history.json')
+        with open(json_path, 'w', encoding='utf-8') as f:
+            json.dump(self.history, f, indent=2, ensure_ascii=False)
+        
+        logging.info(f"Training history saved to: {json_path}")
+    
+    def plot_training_curves(self):
+        """Plot and save training curves"""
+        if len(self.history['epoch']) == 0:
+            return
+        
+        epochs = self.history['epoch']
+        
+        # Create figure with 2 subplots
+        fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 5))
+        
+        # Plot 1: Loss curves
+        ax1.plot(epochs, self.history['train_loss'], 'b-', label='Train Loss', linewidth=2)
+        ax1.plot(epochs, self.history['dev_loss'], 'r-', label='Dev Loss', linewidth=2)
+        ax1.set_xlabel('Epoch', fontsize=12)
+        ax1.set_ylabel('Loss', fontsize=12)
+        ax1.set_title('Training and Validation Loss', fontsize=14, fontweight='bold')
+        ax1.legend(fontsize=10)
+        ax1.grid(True, alpha=0.3)
+        
+        # Plot 2: F1 curves
+        ax2.plot(epochs, self.history['train_f1'], 'b-', label='Train F1', linewidth=2)
+        ax2.plot(epochs, self.history['dev_f1'], 'r-', label='Dev F1', linewidth=2)
+        ax2.set_xlabel('Epoch', fontsize=12)
+        ax2.set_ylabel('Macro F1 Score', fontsize=12)
+        ax2.set_title('Training and Validation F1 Score', fontsize=14, fontweight='bold')
+        ax2.legend(fontsize=10)
+        ax2.grid(True, alpha=0.3)
+        
+        # Mark best epoch
+        if self.best_epoch < len(epochs):
+            best_f1 = self.history['dev_f1'][self.best_epoch]
+            ax2.axvline(x=epochs[self.best_epoch], color='g', linestyle='--', 
+                       alpha=0.5, label=f'Best Epoch ({epochs[self.best_epoch]})')
+            ax2.plot(epochs[self.best_epoch], best_f1, 'g*', markersize=15)
+            ax2.legend(fontsize=10)
+        
+        plt.tight_layout()
+        
+        # Save figure
+        plot_path = os.path.join(self.save_dir, 'training_curves.png')
+        plt.savefig(plot_path, dpi=300, bbox_inches='tight')
+        logging.info(f"Training curves saved to: {plot_path}")
+        
+        # Also save as PDF
+        pdf_path = os.path.join(self.save_dir, 'training_curves.pdf')
+        plt.savefig(pdf_path, bbox_inches='tight')
+        
+        plt.close()
+    
     def save_checkpoint(self, epoch: int, is_best: bool = False):
         """
         Save model checkpoint
@@ -225,11 +317,23 @@ class TeacherTrainer:
             'global_step': self.global_step
         }
         
-        # Save last checkpoint
+        # Save epoch checkpoint (keep last 2)
+        epoch_path = os.path.join(self.save_dir, f'checkpoint_epoch_{epoch+1}.pt')
+        torch.save(checkpoint, epoch_path)
+        self.recent_checkpoints.append(epoch_path)
+        
+        # Remove old checkpoints if we have more than max_checkpoints_to_keep
+        if len(self.recent_checkpoints) > self.max_checkpoints_to_keep:
+            old_checkpoint = self.recent_checkpoints.pop(0)
+            if os.path.exists(old_checkpoint):
+                os.remove(old_checkpoint)
+                logging.info(f"Removed old checkpoint: {os.path.basename(old_checkpoint)}")
+        
+        # Save last checkpoint (always keep)
         last_path = os.path.join(self.save_dir, 'last_model.pt')
         torch.save(checkpoint, last_path)
         
-        # Save best checkpoint
+        # Save best checkpoint (always keep)
         if is_best:
             best_path = os.path.join(self.save_dir, 'best_model.pt')
             torch.save(checkpoint, best_path)
@@ -268,6 +372,14 @@ class TeacherTrainer:
             self.writer.add_scalar('epoch/dev_loss', dev_loss, epoch)
             self.writer.add_scalar('epoch/dev_f1', dev_f1, epoch)
             
+            # Record training history
+            self.history['epoch'].append(epoch + 1)
+            self.history['train_loss'].append(train_loss)
+            self.history['train_f1'].append(train_f1)
+            self.history['dev_loss'].append(dev_loss)
+            self.history['dev_f1'].append(dev_f1)
+            self.history['learning_rate'].append(self.scheduler.get_last_lr()[0])
+            
             # Check for improvement
             is_best = False
             if dev_f1 > self.best_f1:
@@ -291,12 +403,21 @@ class TeacherTrainer:
         hours = int(total_time // 3600)
         minutes = int((total_time % 3600) // 60)
         
+        # Save training history and plot curves
+        logging.info(f"\n{'='*70}")
+        logging.info("Saving Training History and Plots")
+        logging.info(f"{'='*70}")
+        self.save_training_history()
+        self.plot_training_curves()
+        
         logging.info(f"\n{'='*70}")
         logging.info("Training Completed!")
         logging.info(f"{'='*70}")
         logging.info(f"Total training time: {hours}h {minutes}m")
         logging.info(f"Best Dev F1: {self.best_f1:.4f} (Epoch {self.best_epoch + 1})")
         logging.info(f"Model saved to: {self.save_dir}")
+        logging.info(f"Training history: {self.save_dir}/training_history.csv")
+        logging.info(f"Training curves: {self.save_dir}/training_curves.png")
         logging.info(f"TensorBoard logs: {self.writer.log_dir}")
         logging.info("="*70)
         

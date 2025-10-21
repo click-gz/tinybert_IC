@@ -93,14 +93,16 @@ def get_device(device_name: str = 'cuda') -> torch.device:
     Get torch device
     
     Args:
-        device_name: Device name ('cuda' or 'cpu')
+        device_name: Device name ('cuda', 'cuda:0', 'cuda:1', etc. or 'cpu')
         
     Returns:
         torch.device object
     """
-    if device_name == 'cuda' and torch.cuda.is_available():
-        device = torch.device('cuda')
-        logging.info(f"Using device: {device} ({torch.cuda.get_device_name(0)})")
+    if device_name.startswith('cuda') and torch.cuda.is_available():
+        device = torch.device(device_name)
+        # Extract GPU ID from device name (e.g., 'cuda:1' -> 1, 'cuda' -> 0)
+        gpu_id = int(device_name.split(':')[1]) if ':' in device_name else 0
+        logging.info(f"Using device: {device} ({torch.cuda.get_device_name(gpu_id)})")
     else:
         device = torch.device('cpu')
         logging.info(f"Using device: {device}")
